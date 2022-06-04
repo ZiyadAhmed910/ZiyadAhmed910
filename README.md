@@ -21,7 +21,7 @@
   <br>
   💻 I love writing code and Gaming
   <br>
-  📚 I’m currently learning how to build IOT Apps and websites
+  📚 I’m currently learning about Web 3 and integration with smart grid and iot
   <br>
   📫 How to reach me: <a href="mailto: ziyadahmed910@gmail.com">ziyadahmed910@gmail.com</a>
 </p>
