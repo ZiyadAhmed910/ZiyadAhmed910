@@ -17,11 +17,11 @@
   <br>
   🔬 I have a bachelors degree in Electrical and Electronics Engineer.
   <br>
-  🎓 I am going to graduate from Chaitanya Bharathi institute of technology
+  🎓 I graduated from Chaitanya Bharathi institute of technology
   <br>
   💻 I love writing code and Gaming
   <br>
-  📚 I’m currently learning about Web 3 and integration with smart grid and iot
+  📚 I’m currently learning about Salesforce
   <br>
   📫 How to reach me: <a href="mailto: ziyadahmed910@gmail.com">ziyadahmed910@gmail.com</a>
 </p>
