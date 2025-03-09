@@ -12,10 +12,10 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Ziyad Ahmed Mohammed, Electrical and Electronics Engineer.
+  Hi, I'm Ziyad Ahmed Mohammed, Salesforce Developer at Deloitte.
   <br>
   <br>
-  🔬 I'm currently studying for a bachelors degree in Electrical and Electronics Engineer.
+  🔬 I have a bachelors degree in Electrical and Electronics Engineer.
   <br>
   🎓 I am going to graduate from Chaitanya Bharathi institute of technology
   <br>
